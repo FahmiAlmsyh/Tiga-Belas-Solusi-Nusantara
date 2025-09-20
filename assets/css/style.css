@@ -3646,14 +3646,8 @@ html {
   scroll-behavior: smooth;
 }
 
-@media screen and (min-width: 992px) {
-  .contact-us {
-    margin-bottom: 2rem;
-  }
-}
-
 .custom-contact {
-    margin-bottom: 2rem;
+    margin-bottom: 2rem !important;
   }
 
 
