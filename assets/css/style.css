@@ -259,6 +259,14 @@ img {
     }
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
+.custom-contact {
+    margin-bottom: 2rem !important;
+  }
+
 .contact-validation-active #success {
     background-color: #009a00;
     border-left: 5px solid green;
@@ -3642,13 +3650,7 @@ img {
     }
 }
 
-html {
-  scroll-behavior: smooth;
-}
 
-.custom-contact {
-    margin-bottom: 2rem !important;
-  }
 
 
 .wpo-search-area {
